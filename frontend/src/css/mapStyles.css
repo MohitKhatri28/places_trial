@@ -1,0 +1,26 @@
+/* .Home {
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+*{
+  box-sizing: border-box;
+  margin: 20;
+  padding: 20;
+    
+} */
+  
+.leaflet-container{
+  margin: auto;
+  height: 70vh;
+  width: 90vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
+}
+.custom-icon {
+  font-size: 24px;
+   /* Change this to the color you want */
+}
+/* Path: frontend/src/css/Navbar.css */
